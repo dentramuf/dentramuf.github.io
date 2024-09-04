@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dentramuf.github.io/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/app/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/assets/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/css/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/includes/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/item/sitemap.html.gz
+Sitemap: https://dentramuf.github.io/src/sitemap.html.gz
